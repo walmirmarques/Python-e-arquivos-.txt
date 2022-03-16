@@ -1,0 +1,5 @@
+A quantidade de orgânicos é: 226
+A quantidade de anúncio é: 274
+A quantidade do site é: 73
+A quantidade do youtube é: 155
+A quantidade do instagram ou facebook é: 24
